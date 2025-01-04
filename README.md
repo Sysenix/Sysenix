@@ -1,10 +1,6 @@
 ### Hi 👋, I'm Hanifi aka Sysenix
 #### A passionate Software Engineer from Turkey
 
-- 🔭 I’m currently developing on **SaaS project** at **GUNSEL EV**
-- 🌱 I’m currently learning **Personal Management**
-- 💬 Ask me about **Backend techs**
-- 📫 How to reach me adiguzellhanifi@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="hanifiadiguzel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hanifiadiguzel/)
